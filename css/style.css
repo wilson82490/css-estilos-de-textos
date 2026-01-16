@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 h1{
 
@@ -9,12 +9,19 @@ h1{
 
 .intro{
     font-size: 10rem;
-    color: blue;
+   font-family: "Roboto", sans-serif;
+
+
+
+  
+
+}
+
+
+
+p{
+    font-weight: 400;
+
     
 }
 
-p{
-    font-weight: 100;
-}
-    
-    
